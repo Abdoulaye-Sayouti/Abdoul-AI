@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdoul-AI
+- 👋 Hi, I’m Abdoulaye SAYOUTI SOULEYMANE 
 - 👀 I’m interested in Artificial Intelligence and Data Science
 - 🌱 I’m currently studying a Master's degree in AI
 - 💞️ I’m looking to collaborate on great teams in those field
